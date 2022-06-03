@@ -1,0 +1,10 @@
+*{ font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.inaccurate:active {color:red;
+background-color: red;}
+
+.accurate:active {color:green;
+    background-color: green;}
+
